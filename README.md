@@ -12,6 +12,7 @@ Initially I'm collecting only Spanish, eventually I'll add more languages.
 
  - **Spanish**
   [120h of clean speech](https://www.kaggle.com/carlfm01/120h-spanish-speech) 
+
   [100h of clean speech from a single speaker](https://drive.google.com/file/d/1Sm_zyBo67XHkiFhcRSQ4YaHPYM0slO_e/view?usp=sharing) LJSpeech format!
 
 ## Issues
